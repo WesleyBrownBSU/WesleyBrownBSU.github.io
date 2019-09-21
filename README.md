@@ -1,27 +1,15 @@
-```markdown
-Syntax highlighted code block
+### About Me
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+I am a sophomore at BSU pursuing a bachelors degree in computer science. Unlike most I found programming and CS through a math perspective, I have always been interested in learning to code but didn't get around to it until college. I like to challenge myself and CS has been fun but also really challenging and sometimes irritating but I am slowly becoming more familliar and comfortable. Some things I do outside of school and programming include hiking, exploring and skateborading. Check out https://tactics.com and you can find some of my videos and some great gear too!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Experience
 
-### Jekyll Themes
+I am very familliar with Java and staring to learn C, I have taken CS 121, 220 and am currently enrolled in 253.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WesleyBrownBSU/octocat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: WESLEYBROWN475@u.boisestate.edu
